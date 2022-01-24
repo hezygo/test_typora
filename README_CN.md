@@ -1,11 +1,3 @@
-# typora Cracker
-
-一个typora的解包&解密，打包&加密工具
-
-## 敬告
-
-**请注意：** typoraCracker不会提供破解相关支持，包括但不限于思路、流程、成品。
-
 ```
 仅供学习和讨论，请不要从事任何非法行为。
 由此产生的任何问题都将由用户（您）承担。
@@ -14,7 +6,6 @@
 ## Features
 
 - 支持版本1.0.0以上(至少现在是这样)
-- ~~理论上支持Typora支持的所有操作系统~~
 - 已测试适用平台：Win/Ubuntu
 
 ## 食用方式
@@ -60,6 +51,3 @@ XXXXXX-XXXXXX-XXXXXX-XXXXXX
 email: crack@example.com
 serial: XXXXXX-XXXXXX-XXXXXX-XXXXXX
 ```
-
-## LICENSE
- MIT LICENSE
