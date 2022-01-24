@@ -1,7 +1,5 @@
 ## WARNING
 
-**NOTE: typoraCracker doesn't provide support for crack.**
-
 ```
 FOR STUDY AND DISCUSSION ONLY, PLEASE DO NOT ENGAGE IN ANY ILLEGAL ACTS.
 ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER (YOU).
@@ -9,7 +7,7 @@ ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER (YOU).
 
 ## Features
 - Supports Version 1.0.0+ (At least for now.)
-- Supports ~~ALL OS~~Win/Ubuntu(Tested) supported by typora
+- Supports Win/Ubuntu(Tested) supported by typora
 
 ## Usage
 
