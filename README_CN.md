@@ -8,7 +8,7 @@
 - 支持版本1.0.0以上(至少现在是这样)
 - 已测试适用平台：Win/Ubuntu
 
-## 食用方式
+## Uses方式
 
 1. `pip install -r requirements.txt`
 2. `python typora.py --help`
